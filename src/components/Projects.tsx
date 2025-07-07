@@ -17,7 +17,7 @@ const Projects = () => {
       githubUrl: "https://github.com/Rajufhh",
       icon: <Eye className="text-blue-600" size={24} />,
       gradient: "from-blue-400 to-cyan-500",
-      image: "https://images.unsplash.com/photo-1555421689-491a97ff2040?auto=format&fit=crop&w=800&q=80"
+      image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=800&q=80"
     },
     {
       title: "Feedback Management System",
@@ -32,7 +32,7 @@ const Projects = () => {
       githubUrl: "https://github.com/Rajufhh",
       icon: <Users className="text-green-600" size={24} />,
       gradient: "from-green-400 to-emerald-500",
-      image: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=800&q=80"
+      image: "https://images.unsplash.com/photo-1587440871875-191322ee64b0?auto=format&fit=crop&w=800&q=80"
     },
     {
       title: "AI Prompt Engineering Projects",
@@ -47,7 +47,7 @@ const Projects = () => {
       githubUrl: "https://github.com/Rajufhh",
       icon: <Brain className="text-purple-600" size={24} />,
       gradient: "from-purple-400 to-pink-500",
-      image: "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80"
+      image: "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80"
     },
     {
       title: "Online Testing and Monitoring Quality of Medicines",
@@ -62,7 +62,7 @@ const Projects = () => {
       githubUrl: "https://github.com/Rajufhh",
       icon: <MonitorSpeaker className="text-red-600" size={24} />,
       gradient: "from-red-400 to-rose-500",
-      image: "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?auto=format&fit=crop&w=800&q=80"
+      image: "https://images.unsplash.com/photo-1585435557343-3b092031d4cc?auto=format&fit=crop&w=800&q=80"
     },
     {
       title: "Mentor Connect Platform",
@@ -77,7 +77,7 @@ const Projects = () => {
       githubUrl: "https://github.com/Rajufhh",
       icon: <MessageSquare className="text-indigo-600" size={24} />,
       gradient: "from-indigo-400 to-blue-500",
-      image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=800&q=80"
+      image: "https://images.unsplash.com/photo-1531482615713-2afd69097998?auto=format&fit=crop&w=800&q=80"
     }
   ];
 
