@@ -1,6 +1,6 @@
 
 import React from 'react';
-import { Github, ExternalLink, Eye, Users, Brain, Shield } from 'lucide-react';
+import { Github, ExternalLink, Eye, Users, Brain, Shield, MonitorSpeaker, MessageSquare } from 'lucide-react';
 
 const Projects = () => {
   const projects = [
@@ -17,7 +17,7 @@ const Projects = () => {
       githubUrl: "https://github.com/Rajufhh",
       icon: <Eye className="text-blue-600" size={24} />,
       gradient: "from-blue-400 to-cyan-500",
-      image: "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&w=800&q=80"
+      image: "https://images.unsplash.com/photo-1555421689-491a97ff2040?auto=format&fit=crop&w=800&q=80"
     },
     {
       title: "Feedback Management System",
@@ -32,7 +32,7 @@ const Projects = () => {
       githubUrl: "https://github.com/Rajufhh",
       icon: <Users className="text-green-600" size={24} />,
       gradient: "from-green-400 to-emerald-500",
-      image: "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=800&q=80"
+      image: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=800&q=80"
     },
     {
       title: "AI Prompt Engineering Projects",
@@ -47,7 +47,37 @@ const Projects = () => {
       githubUrl: "https://github.com/Rajufhh",
       icon: <Brain className="text-purple-600" size={24} />,
       gradient: "from-purple-400 to-pink-500",
-      image: "https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?auto=format&fit=crop&w=800&q=80"
+      image: "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      title: "Online Testing and Monitoring Quality of Medicines",
+      description: "🚧 Private/Internal Project (Govt. of Delhi) - Platform for real-time testing and rejection of low-quality medical supplies in hospitals with automated compliance checks.",
+      technologies: ["React", "Node.js", "MongoDB", "Tailwind CSS"],
+      features: [
+        "Automated compliance checks",
+        "Real-time quality monitoring",
+        "Admin dashboard for oversight",
+        "Comprehensive report generation"
+      ],
+      githubUrl: "https://github.com/Rajufhh",
+      icon: <MonitorSpeaker className="text-red-600" size={24} />,
+      gradient: "from-red-400 to-rose-500",
+      image: "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      title: "Mentor Connect Platform",
+      description: "🚧 Custom implementation - Platform connecting students with domain mentors for guidance and collaboration, featuring real-time chat and comprehensive feedback systems.",
+      technologies: ["React", "Express.js", "MongoDB", "Socket.IO"],
+      features: [
+        "Mentor profile management",
+        "Student request system",
+        "Real-time chat functionality",
+        "Comprehensive feedback system"
+      ],
+      githubUrl: "https://github.com/Rajufhh",
+      icon: <MessageSquare className="text-indigo-600" size={24} />,
+      gradient: "from-indigo-400 to-blue-500",
+      image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=800&q=80"
     }
   ];
 
