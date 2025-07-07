@@ -17,7 +17,7 @@ const Projects = () => {
       githubUrl: "https://github.com/Rajufhh",
       icon: <Eye className="text-blue-600" size={24} />,
       gradient: "from-blue-400 to-cyan-500",
-      image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=800&q=80"
+      image: "/lovable-uploads/ea5dc0a8-007c-466c-a51f-49208ba5b846.png"
     },
     {
       title: "Feedback Management System",
@@ -32,7 +32,7 @@ const Projects = () => {
       githubUrl: "https://github.com/Rajufhh",
       icon: <Users className="text-green-600" size={24} />,
       gradient: "from-green-400 to-emerald-500",
-      image: "https://images.unsplash.com/photo-1587440871875-191322ee64b0?auto=format&fit=crop&w=800&q=80"
+      image: "/lovable-uploads/1a264187-757f-4fab-a100-6f7a2990cf3e.png"
     },
     {
       title: "AI Prompt Engineering Projects",
@@ -62,7 +62,7 @@ const Projects = () => {
       githubUrl: "https://github.com/Rajufhh",
       icon: <MonitorSpeaker className="text-red-600" size={24} />,
       gradient: "from-red-400 to-rose-500",
-      image: "https://images.unsplash.com/photo-1585435557343-3b092031d4cc?auto=format&fit=crop&w=800&q=80"
+      image: "/lovable-uploads/08eb4240-aae7-4301-992a-cbc7b4f3eb9e.png"
     },
     {
       title: "Mentor Connect Platform",
@@ -77,7 +77,7 @@ const Projects = () => {
       githubUrl: "https://github.com/Rajufhh",
       icon: <MessageSquare className="text-indigo-600" size={24} />,
       gradient: "from-indigo-400 to-blue-500",
-      image: "https://images.unsplash.com/photo-1531482615713-2afd69097998?auto=format&fit=crop&w=800&q=80"
+      image: "/lovable-uploads/77dbe829-9c8e-4e86-84b5-619328dd7903.png"
     }
   ];
 
