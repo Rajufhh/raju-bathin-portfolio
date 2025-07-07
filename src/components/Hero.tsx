@@ -8,8 +8,12 @@ const Hero = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20">
         <div className="text-center">
           <div className="mb-8">
-            <div className="w-48 h-48 mx-auto bg-gradient-to-br from-blue-400 to-indigo-600 rounded-full flex items-center justify-center text-white text-6xl font-bold shadow-2xl">
-              RB
+            <div className="w-48 h-48 mx-auto rounded-full overflow-hidden shadow-2xl ring-4 ring-blue-100">
+              <img 
+                src="/lovable-uploads/4a551fe1-c970-4cc4-995d-89df8a8800ab.png"
+                alt="Raju Bathini"
+                className="w-full h-full object-cover"
+              />
             </div>
           </div>
           
